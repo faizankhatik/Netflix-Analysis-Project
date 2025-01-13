@@ -32,8 +32,7 @@ Seaborn
 Jupyter Notebook (for interactive exploration)
 
 
-**Installation
-**
+**Installation**
 
 Clone the repository:
 
@@ -48,8 +47,7 @@ Install dependencies:
 pip install -r requirements.txt
 
 
-**Usage
-**
+**Usage**
 
 Open the Jupyter Notebook:
 
@@ -60,8 +58,7 @@ Run the cells sequentially to reproduce the analysis.
 Modify the code as needed to explore additional insights.
 
 
-**Dataset
-**
+**Dataset**
 
 The dataset includes information on:
 
@@ -77,8 +74,7 @@ User interactions (if applicable)
 
 Ensure the dataset file is placed in the project directory for proper loading.
 
-**Key Insights
-**
+**Key Insights**
 
 Popular genres and their trends over time.
 
@@ -86,8 +82,7 @@ Distribution of content by rating and region.
 
 Analysis of user preferences and engagement.
 
-**Results
-**
+**Results**
 
 The results of this analysis provide actionable insights into:
 

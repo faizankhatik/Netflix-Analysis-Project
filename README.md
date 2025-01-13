@@ -1,9 +1,9 @@
 # Netflix-Analysis-Project
-Overview
+**Overview**
 
 This project analyzes data related to Netflix, focusing on user behavior, content trends, and platform performance. It utilizes Python libraries and data visualization tools to derive insights from the provided dataset.
 
-Features
+**Features**
 
 Data Preprocessing: Cleaning and organizing raw data for analysis.
 
@@ -13,7 +13,7 @@ Visualizations: Graphical representation of findings, such as genre popularity, 
 
 Insights: Key takeaways from the analysis to understand Netflix's performance and user preferences.
 
-Requirements
+**Requirements**
 
 Python 3.x
 
